@@ -24,7 +24,7 @@ header #titulo {
   font-weight: 550;
   letter-spacing: 5px;
 }
-li{
+section .lista{
     display: flex;
 }
 footer{
